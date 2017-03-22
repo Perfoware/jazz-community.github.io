@@ -1,0 +1,36 @@
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+    border: solid 2px #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+    background: #fff;
+}
+
+.btn-primary {
+    margin-top: 15px;
+    border: solid 2px #{{ site.color.primary }};
+    font-size: 20px;
+    color: #fff;
+    background: #{{ site.color.primary }};
+    transition: all .3s ease-in-out;
+}
+
+.logo-container {
+  height:230px;
+  width:230px;
+  border-radius:115px;
+  padding: 12px;
+  margin: 0 auto;
+  background-color:#{{ site.color.secondary }};
+}
+
+.modal-item {
+  width: auto;
+  height: auto;
+}
+
+.modal-item,
+.portfolio-item-border > a {
+  border: 3px solid #{{ site.color.secondary }};
+}

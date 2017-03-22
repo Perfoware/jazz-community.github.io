@@ -10,7 +10,7 @@
             </div>
             <div class="row">
                 {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
+                    <div class="col-sm-4 portfolio-item portfolio-item-border">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
@@ -21,6 +21,11 @@
                         </a>
                     </div>
                 {% endfor %}
+            </div>
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <a href="https://github.com/jazz-community" class="btn btn-primary btn-lg">
+                    <i class="fa"></i> Join us on GitHub
+                </a>
             </div>
         </div>
     </section>
