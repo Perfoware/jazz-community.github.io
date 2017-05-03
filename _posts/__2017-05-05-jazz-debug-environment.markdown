@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2017-05-05
 img: jazz-debug-environment.png
-project-date: February 2017
+project-date: May 2017
 project-url: https://github.com/jazz-community/jazz-debug-environment
 author: Siemens Building Technologies
 author-url: https://siemens.com/buildingtechnologies
-description: The goal of this project is to provide you with a ready-to-go environment for extending your jazz applications.
+description: The goal of this project is to provide you with a ready-to-go debugging environment for extending your jazz applications.
 
 ---
