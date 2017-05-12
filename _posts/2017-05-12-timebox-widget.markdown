@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2017-05-12
-img: timebox-widget.jpg
+img: timebox-widget.gif
 project-date: May 2017
 project-url: https://github.com/jazz-community/rtc-timeboxplanning
 author: Markus Giacomuzzi, Siemens Building Technologies
