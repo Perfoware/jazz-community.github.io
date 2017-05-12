@@ -34,3 +34,7 @@
 .portfolio-item-border > a {
   border: 3px solid #{{ site.color.secondary }};
 }
+
+.past-meeting {
+	text-decoration: line-through;
+}
