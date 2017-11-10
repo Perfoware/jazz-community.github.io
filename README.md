@@ -1,11 +1,9 @@
-Welcome to the Jazz Community!
-==============================
-Website: [http://jazz-community.org](http://jazz-community.org)
+# Source Code of the Website: [http://jazz-community.org](http://jazz-community.org)
 
-This website provides an overview over our community driven software projects used for intraction with IBM Rational Jazz Platform.
+This website provides an overview over our community driven software projects used for intraction with IBM Rational Jazz Platform published as @jazz-community.
 
-We are representatives of various companies based in the german speaking part of europe. All of us are heavy users of IBM Rational Jazz and we want to share our knowledge, experience and source code contributions with other Jazz users.
+You may find more information about it on our [Welcome Page](https://github.com/jazz-community/welcome)
 
 ## Website Maintainers
- - [Lukas Steiger](https://github.com/innerjoin)
- - [Guido Schneider](https://github.com/schneigu)
+ - Content: [Lukas Steiger](https://github.com/innerjoin)
+ - Operation: [Guido Schneider](https://github.com/schneigu)
